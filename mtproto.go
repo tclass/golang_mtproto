@@ -10,7 +10,6 @@ import (
 	"time"
 
 	"github.com/k0kubun/pp"
-	"container/list"
 )
 
 const (
